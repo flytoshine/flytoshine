@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- AI Neural Network / Particle Web Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neural Network Animation" />
+<!-- Reliable AI Particle Network Animation -->
+<img src="https://media.giphy.com/media/L04wBElXWosvuHkE6C/giphy.gif" width="100%" alt="Neural Network Animation" />
 
-<!-- AI Prompt-Style Typing Header (Neon Purple) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Initializing+AI+Core...;Hi,+I'm+Shine+Varghese+E+🧠;Data+%26+AI+Engineer+⚡;Building+Intelligent+Pipelines+🤖;Architecting+ML+Infrastructure+🌌" alt="Typing SVG" />
+<!-- Fixed Typing Header (Emojis removed for stability) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Initializing+AI+Core...;Hi,+I'm+Shine+Varghese+E;Data+and+AI+Engineer;Building+Intelligent+Pipelines;Architecting+ML+Infrastructure" alt="Typing SVG" />
 
 <p align="center">
   <em>Designing scalable data pipelines, optimizing big data architectures, and building the infrastructure that powers Machine Learning and AI.</em>
@@ -41,7 +41,7 @@
 
 ### 🔮 Engineering Telemetry
 
-<!-- Stats Cards using the Dracula theme (Deep Purples & Pinks) -->
+<!-- Stats Cards -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=flytoshine&show_icons=true&theme=dracula&hide_border=true&hide_rank=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
