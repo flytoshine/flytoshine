@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Futuristic Data Network Animation -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Data Network Animation" />
+<!-- Flowing Data Pipeline Animation -->
+<img src="https://media.giphy.com/media/3o7TKrEzvLbgqjOUOQ/giphy.gif" width="100%" alt="Flowing Data Animation" />
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Shine+Varghese+E!+%F0%9F%91%8B;Data+Engineer+%E2%9A%99%EF%B8%8F;Building+Scalable+Pipelines+%F0%9F%9A%80;Big+Data+Enthusiast+%F0%9F%93%8A" alt="Typing SVG" />
+<!-- Animated Header (Native Blue, Flow Vibe) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Shine+Varghese+E!+%F0%9F%91%8B;Data+Engineer+%E2%9A%99%EF%B8%8F;Streaming+Data+Pipelines+%F0%9F%8C%8A;Big+Data+Architect+%F0%9F%92%A7" alt="Typing SVG" />
 
 <p align="center">
-  <em>Architecting robust ETL pipelines, optimizing data warehouses, and turning raw data into actionable insights.</em>
+  <em>Architecting robust ETL pipelines, optimizing data warehouses, and ensuring smooth, continuous data flow.</em>
 </p>
 
 <!-- Social Links / Badges -->
@@ -47,14 +47,14 @@
 
 ### 📊 GitHub Activity
 
-<!-- Live Stats Cards (Rank and Streak Hidden) -->
+<!-- Live Stats Cards (GitHub Dark Theme, Blends seamlessly into background) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flytoshine&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=flytoshine&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flytoshine&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flytoshine&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 </div>
