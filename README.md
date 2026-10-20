@@ -1,53 +1,84 @@
-<div align="center">
+# 👋 Hi, I'm Shine
 
-<!-- Reliable AI Particle Network Animation -->
-<img src="https://media.giphy.com/media/L04wBElXWosvuHkE6C/giphy.gif" width="100%" alt="Neural Network Animation" />
+### 🔐 Cybersecurity | Web Application Security | Security Automation
 
-<!-- Fixed Typing Header (Emojis removed for stability) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Initializing+AI+Core...;Hi,+I'm+Shine+Varghese+E;Data+and+AI+Engineer;Building+Intelligent+Pipelines;Architecting+ML+Infrastructure" alt="Typing SVG" />
+I'm passionate about understanding web applications, analyzing internet-facing infrastructure, and exploring how security weaknesses can be identified and prevented.
 
-<p align="center">
-  <em>Designing scalable data pipelines, optimizing big data architectures, and building the infrastructure that powers Machine Learning and AI.</em>
-</p>
-
-<!-- AI-Themed Social Badges (Deep Violet) -->
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A855F7&color=1E1E2E" alt="LinkedIn"></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=A855F7&color=1E1E2E" alt="Twitter"></a>
-  <a href="https://YOUR_PORTFOLIO_URL.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=dev.to&logoColor=A855F7&color=1E1E2E" alt="Portfolio"></a>
-</p>
+- 🔎 Exploring web security and attack surface discovery
+- 🐍 Interested in Python-based security automation
+- 🌐 Learning web protocols, networking, and infrastructure security
+- 🛡️ Practicing authorized vulnerability research and security testing
+- 📚 Continuously improving my technical and analytical skills
 
 ---
 
-### 🧠 Data & AI Stack
+## 🧰 Technologies & Tools
 
-<!-- Core Languages & AI Infrastructure -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,gcp,postgres,mongodb,redis,docker,kubernetes,kafka,linux&perline=6&theme=dark" alt="Core Stack" />
-  </a>
-</p>
+### 💻 Programming & Automation
 
-<!-- Big Data & ML Tools (Custom Glowing Badges) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache_Spark-1E1E2E?style=for-the-badge&logo=apachespark&logoColor=E35A16" alt="Spark" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-1E1E2E?style=for-the-badge&logo=Apache%20Airflow&logoColor=017CEE" alt="Airflow" />
-  <img src="https://img.shields.io/badge/OpenAI-1E1E2E?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Hugging_Face-1E1E2E?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Snowflake-1E1E2E?style=for-the-badge&logo=snowflake&logoColor=29B5E8" alt="Snowflake" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🌐 Web & Network Technologies
+
+![HTTP](https://img.shields.io/badge/HTTP%2FHTTPS-00599C?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-326CE5?style=for-the-badge)
+![TLS/SSL](https://img.shields.io/badge/TLS%2FSSL-2E8B57?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20APIs-6DB33F?style=for-the-badge)
+
+### 🛡️ Security Tools & Platforms
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 ---
 
-### 🔮 Engineering Telemetry
+## 🎯 Cybersecurity Domains
 
-<!-- Stats Cards -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flytoshine&show_icons=true&theme=dracula&hide_border=true&hide_rank=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
+- **Web Application Security** — authentication, sessions, access control, and common web vulnerabilities
+- **Reconnaissance & OSINT** — DNS intelligence, subdomain discovery, and public attack-surface mapping
+- **Network Security** — ports, services, protocols, and network traffic analysis
+- **API Security** — authorization testing, input validation, and API misconfigurations
+- **Vulnerability Research** — finding, validating, documenting, and responsibly disclosing security issues
+- **Security Configuration Analysis** — HTTP security headers, TLS certificates, and common misconfigurations
+- **Security Automation** — Python scripts for repeatable security checks and structured reporting
+- **Linux & Command-Line Security** — shell commands, system fundamentals, and troubleshooting
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flytoshine&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+---
 
-</div>
+## 📚 Technology Areas I'm Exploring
+
+- OWASP Top 10 and web security testing methodologies
+- Burp Suite workflows and HTTP request analysis
+- DNS records, subdomains, and domain infrastructure
+- TCP/IP, ports, protocols, and service discovery
+- TLS certificates and HTTPS configuration
+- Linux administration and Bash scripting
+- Python automation for security analysis
+- Secure authentication and authorization
+- Vulnerability triage, impact analysis, and remediation
+- Responsible disclosure and security reporting
+
+---
+
+## 📊 GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flytoshine&show_icons=true&hide_border=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flytoshine&layout=compact&hide_border=true&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+**GitHub:** [@flytoshine](https://github.com/flytoshine)
+
+*Learning, researching, and building towards a more secure digital world.* 🔐
+
+---
+
+**Ethical security research only:** I respect authorization requirements, defined testing scopes, and responsible disclosure.
